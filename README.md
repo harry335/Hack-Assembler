@@ -37,5 +37,10 @@ To ensure high maintainability and logical clarity, the system is designed with 
 2. Run the assembler:
    ```bash
    python hack_assembler.py YourProgram.asm
-   ```
+   ```git add README.md
 3. The resulting .hack file will be generated in the same
+
+## Demo Video
+Click the image below to watch the implementation demo on YouTube:
+
+[![Hack Assembler Demo](https://img.youtube.com/vi/YM4vuUjm3WM/0.jpg)](https://www.youtube.com/watch?v=YM4vuUjm3WM)
